@@ -1,5 +1,5 @@
-/home/ubuntu/star-agile-banking-finance/src/main/java/com/project/staragile/banking/Account.java
-/home/ubuntu/star-agile-banking-finance/src/main/java/com/project/staragile/banking/AccountService.java
-/home/ubuntu/star-agile-banking-finance/src/main/java/com/project/staragile/banking/AccountController.java
-/home/ubuntu/star-agile-banking-finance/src/main/java/com/project/staragile/banking/BankingApplication.java
-/home/ubuntu/star-agile-banking-finance/src/main/java/com/project/staragile/banking/AccountRepository.java
+/home/ubuntu/starbank-pvt-ltd/src/main/java/com/project/staragile/banking/AccountController.java
+/home/ubuntu/starbank-pvt-ltd/src/main/java/com/project/staragile/banking/Account.java
+/home/ubuntu/starbank-pvt-ltd/src/main/java/com/project/staragile/banking/AccountService.java
+/home/ubuntu/starbank-pvt-ltd/src/main/java/com/project/staragile/banking/BankingApplication.java
+/home/ubuntu/starbank-pvt-ltd/src/main/java/com/project/staragile/banking/AccountRepository.java
